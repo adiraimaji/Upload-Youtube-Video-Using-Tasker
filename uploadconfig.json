@@ -1,0 +1,10 @@
+{
+  "video_path": "/storage/emulated/0/Termux/Accessible/Path/videoFile.mp4",
+  "thumbnail_path": "/storage/emulated/0/Termux/Accessible/Path/thumbnail.jpg",
+  "title": "My Test Video",
+  "description": "Uploaded from Termux",
+  "tags": "termux,upload",
+  "category_id": "22",
+  "privacy": "private",
+  "playlist_name": "TERMUX UPLOAD PLAYLIST"
+}
