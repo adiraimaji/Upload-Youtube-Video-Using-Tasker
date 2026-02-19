@@ -2,6 +2,13 @@
 A python script that uses YouTube Data API to upload videos automatically on YouTube from Android Mobile using Termux
 
 
+# What You Need?
+- Tasker
+- Termux
+- Termux:Tasker Plugin
+- Patience
+- Some Knowledge
+
 # 1️⃣ Setup Environment 
 ```sh
 termux-setup-storage #Run it and Make sure termux has Storage Permission
